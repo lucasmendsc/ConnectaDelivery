@@ -1,4 +1,9 @@
+import 'dart:js';
+
 import 'connecta_delivery.dart';
+import 'controllers/SessionController.dart';
+import 'controllers/UsuarioController.dart';
+import 'middleware/JwtMiddleware.dart';
 
 /// This type initializes an application.
 ///
@@ -28,7 +33,10 @@ class ConnectaDeliveryChannel extends ApplicationChannel {
 
     // Prefer to use `link` instead of `linkFunction`.
     // See: https://aqueduct.io/docs/http/request_controller/
+   // router.route("/usuario/[:id]").link(() => UserController(context));
+   // router.route("/session/[:id]").link(() => SessionController(context));
     router
+
       .route("/example")
       .linkFunction((request) async {
         return Response.ok({"key": "value"});

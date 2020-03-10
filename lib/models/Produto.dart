@@ -6,16 +6,16 @@ class _produto {
   @primaryKey
   int id;
 
-  @Column(unique: true)
+  @Column(nullable: false)
   String nome;
 
   @Column()
-  String lote;
+  String descricao;
 
   @Column(nullable: false)
-  int qunatidade;
+  double valor;
 
-  @Column(nullable: false)
-  double preco;
+  @Column()
+  String foto;
 
 }

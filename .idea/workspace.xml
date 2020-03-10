@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="942432d7-740b-4ba3-ba4a-da5a0fedd79c" name="Default Changelist" comment="" />
+    <list default="true" id="942432d7-740b-4ba3-ba4a-da5a0fedd79c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/aqueduct/aqueduct.dart.snapshot.dart2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/sdk-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/pub/bin/test/test.dart.snapshot.dart2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/connecta_delivery.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/connecta_delivery.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" afterPath="$PROJECT_DIR$/.packages" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/channel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/channel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/Endereco.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/Entrega.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/Entrega.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/Produto.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/Produto.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/Usuario.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/models/Usuario.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +35,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YwEKobymUjzy2IQt63VGJWXdTL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="dart.analysis.tool.window.force.activate" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
@@ -48,5 +68,18 @@
       <updated>1583845194889</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
